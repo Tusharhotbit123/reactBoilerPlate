@@ -22,7 +22,7 @@ A minimal and well-structured **React** boilerplate powered by **Vite**, with **
 ```sh
 git clone https://github.com/Tusharhotbit123/reactBoilerPlate
 ```
-Replace `YOUR_GITHUB_USERNAME` and `YOUR_REPO_NAME` with your actual **GitHub repo** details.
+
 
 ### 2️⃣ Navigate into the Project Folder
 
